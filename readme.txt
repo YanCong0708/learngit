@@ -6,3 +6,6 @@ Git origin commit
 Git dev branch update
 Git a new branch is quick and simple
 Giat a branch master.
+Git a new branch is quick and simple.git
+Git a branch test
+
