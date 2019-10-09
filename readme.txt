@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changs of files.
 Git origin commit
 Git dev branch update
-Greating a new branch is quick & simple.
+Git a new branch is quick and simple.
